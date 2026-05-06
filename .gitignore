@@ -1,0 +1,38 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Machine Learning Artifacts
+# Uncomment these if your data/models get too large (>100MB)
+# fraud_data.csv
+# fraud_model.pkl
+# encoder.pkl
+
+# Frontend (Node.js)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
